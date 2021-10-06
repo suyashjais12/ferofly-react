@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ferofly-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/ferofly-react/static/js/main.f6a6d329.chunk.js",
+    "main.js.map": "/ferofly-react/static/js/main.f6a6d329.chunk.js.map",
+    "runtime-main.js": "/ferofly-react/static/js/runtime-main.3c871b49.js",
+    "runtime-main.js.map": "/ferofly-react/static/js/runtime-main.3c871b49.js.map",
+    "static/js/2.106015ab.chunk.js": "/ferofly-react/static/js/2.106015ab.chunk.js",
+    "static/js/2.106015ab.chunk.js.map": "/ferofly-react/static/js/2.106015ab.chunk.js.map",
+    "static/js/3.15217f1c.chunk.js": "/ferofly-react/static/js/3.15217f1c.chunk.js",
+    "static/js/3.15217f1c.chunk.js.map": "/ferofly-react/static/js/3.15217f1c.chunk.js.map",
+    "index.html": "/ferofly-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ferofly-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.106015ab.chunk.js.LICENSE.txt": "/ferofly-react/static/js/2.106015ab.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ferofly-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c871b49.js",
+    "static/js/2.106015ab.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f6a6d329.chunk.js"
+  ]
+}

@@ -1,0 +1,360 @@
+.nav {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  background-color: #242323;
+}
+
+.nav-item {
+  padding: 1%;
+}
+
+.nav-link {
+  color: #B3B3B3;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link:hover {
+  color: #756D42;
+}
+
+.sidenav {
+  width: 100px;
+  height: 280px;
+  position: fixed;
+  z-index: 1;
+  top: 400px;
+  right: 10px;
+  background: white;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+.sidenav2 {
+  width: 65px;
+  height: 65px;
+  position: fixed;
+  z-index: 1;
+  top: 800px;
+  left: 30px;
+  background: white;
+  overflow-x: hidden;
+}
+
+.fab{
+  margin-left: 20%;
+  margin-bottom: 40%;
+  text-align: center;
+}
+.fa-comments{
+  background-color: #242323;
+  color: white;
+  padding: 7%;
+}
+.Companytitle {
+  text-align: center;
+  position: relative;
+  top: 100px;
+  font-size: 60px;
+  font-family: 'Ropa Sans', sans-serif;
+}
+
+.undertitle {
+  text-align: center;
+  position: relative;
+  top: 150px;
+  margin-bottom: 7%;
+  font-size: 10px;
+  font-family: 'Ropa Sans', sans-serif;
+
+}
+
+.undertitleHr1 {
+  width: 2%;
+  height: 2rem;
+  position: relative;
+  left: 42%;
+  top: 200px;
+}
+
+.undertitleHr2 {
+  width: 2%;
+  height: 20%;
+  position: relative;
+  left: 56%;
+  top: 10px;
+}
+
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+  background: white;
+  padding: 25px;
+  margin-bottom: 10%;
+}
+
+.parallax {
+  background-image: url("https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg");
+  height: 630px;
+  width: 100%;
+  margin-top: 10%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.parallax2 {
+  background-image: url("https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg");
+  height: 630px;
+  width: 100%;
+  margin-top: 10%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.dateday {
+  margin: 1%;
+  position: relative;
+  top: 80px;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.adultnumber {
+  width: 100%;
+  position: relative;
+  right: 26%;
+}
+
+.childnumber {
+  width: 60px;
+  position: relative;
+  right: 26%;
+}
+
+.submitbutton {
+  margin-top: 20%;
+  width: 100%;
+}
+
+#adult {
+  width: 100px;
+  position: relative;
+  left:2px;
+}
+
+#child {
+  width: 100px;
+  position: relative;
+left: 2px;
+}
+
+.checkindate, .checkoutdate,#adult, #child {
+  border-width: thin;
+}
+
+.checkindate:hover, .checkoutdate:hover, #child:hover, #adult:hover {
+  background-color: white;
+  color: black;
+}
+
+.aboutus {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.aboutuspara {
+  margin: 7% 12% 7% 12%;
+  line-height: 1.5em;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.onimagecard1 {
+  width: 391px;
+  height: 369px;
+  position: relative;
+  top: 100px;
+  left: 260px;
+  margin-bottom: 7%;
+  text-align: center;
+}
+
+.ourroomsheading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-top: 10%;
+}
+
+.ourroomstext {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  margin-top: 5%;
+}
+
+.bookaroombutton {
+  margin-top: 10%;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 600px;
+}
+
+.card-group {
+  border-color: white;
+  margin-top: 15%;
+}
+
+.fas {
+  margin-bottom: 8%;
+}
+
+.servicesheading {
+  margin-top: 18%;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+.features {
+  font-family: 'Yaldevi', sans-serif;
+  font-size: 20px;
+}
+
+.features-row1 {
+  margin-top: 5%;
+}
+
+.features-para {
+  margin-top: 10%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 4.5%;
+}
+
+.onimagecard2 {
+  width: 391px;
+  height: 369px;
+  position: relative;
+  top: 150px;
+  left: 260px;
+  margin-bottom: 10%;
+  text-align: center;
+}
+
+.carouselbuttons {
+  height: 14px;
+  width: 0.5%;
+  margin: 0 2px;
+  position:relative;
+  left: -4px;
+  text-align: center;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.contactinfo {
+  background-color: #F5F5F5;
+  text-align: center;
+  padding: 5%;
+}
+
+.container2 {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.contactus {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-weight: 0.7rem;
+}
+
+.colcontact {
+  display: inline-block;
+  margin: 2%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+
+.container3 {
+  padding: 7% 15% 7% 15%;
+}
+
+.contactformname {
+  width: 45%;
+  margin: 1%;
+  padding: 1.5%;
+  border-width: thin;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  border: none;
+  display: inline-block;
+}
+
+.contactformmail {
+  width: 50%;
+  margin: 1%;
+  padding: 1.5%;
+  border-width: thin;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  border: none;
+  display: inline-block;
+}
+
+.contactformsubject {
+  width: 98%;
+  margin: 1%;
+  padding: 1.5%;
+  border-width: thin;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  border: none;
+  display: inline-block;
+}
+
+.contactformmessage {
+  width: 98%;
+  height: 200px;
+  margin: 1%;
+  padding: 1.5%;
+  border-width: thin;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  border: none;
+  display: inline-block;
+}
+
+.submitbutton2 {
+  width: 98%;
+  margin-top: 1%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+
+}
+
+
+
+footer {
+  background-color: #242323;
+  color: white;
+  padding: 1%;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
